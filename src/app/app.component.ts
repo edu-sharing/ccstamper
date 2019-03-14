@@ -16,7 +16,7 @@ export class AppComponent {
 
   images : Array<any> = new Array<any>();
   license : string = 'cc-by';
-  author: string = 'test';
+  author: string = '';
 
   uploadProgress : number = 1;
 
